@@ -2,7 +2,6 @@
 - 👀 I’m interested in blockchain technology
 - 🌱 I’m currently learning blockchain development
 - 📫 How to reach me LinkedIn: linkedin.com/in/wilhelm-lövgren-olofsson
-- ⚡ Fun fact: ...
 
 <!---
 lisce18/lisce18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
